@@ -20,7 +20,6 @@ namespace Solution
                 YouWin.SetActive(true);
                 Debug.Log("You win");
             }
-         
             return true;
           
         }
